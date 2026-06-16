@@ -1,8 +1,8 @@
 # Web3 智能合约自动化QA 在线简历
-在线简历地址：https://liuyoushan.github.io/My_Resume/
-TG：@roshan_liu
-电话：15915308771
-email：liuyoushan1234@gmail.com
+在线简历地址：https://liuyoushan.github.io/My_Resume/  
+TG：@roshan_liu  
+电话：15915308771  
+email：liuyoushan1234@gmail.com  
 
 ## 完整质量工程作品集（一套DeFi全流程质量解决方案）
 1. ape_web3_test（日常迭代自动化回归）
